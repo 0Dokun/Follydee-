@@ -18,6 +18,7 @@ print(bubble_sort(list))
 #BUBBLE SORT 2
 
 def bubble_sort (lis):
+
     size = len(lis)
 
     for i in range (size):
