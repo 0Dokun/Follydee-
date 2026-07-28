@@ -12,4 +12,5 @@ def bubble_sort (lis):
     return lis
 
 list = [64,34,25,12,22,11,90]
+
 print(bubble_sort(list))
